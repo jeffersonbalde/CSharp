@@ -5,8 +5,8 @@ class Program
     static void Main(String[] args)
     {
         UserInput ui = new UserInput();
-        ui.ReadLineDemo();
-
-        
+        //ui.ReadLineDemo();
+        //ui.ReadDemo();
+        ui.ReadKeyDemo();
     }
 }
